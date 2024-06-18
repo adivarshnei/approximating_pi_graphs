@@ -119,7 +119,7 @@ $$
 - [ ] Summing a circle's area
 
 $$
-\lim_{r\rightarrow\infty}\frac{1}{r^2}\sum_{x=-r}^{r}\sum_{y=-r}^{r}\left\{\begin{array}{rcl}1&\mbox{if}&\sqrt{x^2+y^2}\le{r}\\0&\mbox{if}&\sqrt{x^2+y^2}\gt{r}\\\end{array}\right.=\pi
+\lim_{r\rightarrow\infty}\frac{1}{r^2}\sum_{x=-r}^{r}\sum_{y=-r}^{r}\left\{\begin{matrix}1&\mbox{if}&\sqrt{x^2+y^2}\le{r}\\0&\mbox{if}&\sqrt{x^2+y^2}\gt{r}\\\end{matrix}\right.=\pi
 $$
 
 - [ ] Combination of Stirling's approximation and Wallis product
